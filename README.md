@@ -5,4 +5,8 @@
 
 > $ chmod +x auso.sh
 
-> $ ./auto.sh
+**If You have a list of domains/subdomains so you can use auto.sh or if you want to test a single domain so you can you scrapper.py **
+
+> $ python3 --url https:// site.com
+
+#Note Site Url should contain https or http
